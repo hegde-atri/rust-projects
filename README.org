@@ -1,0 +1,7 @@
+#+title: Rust Projects
+#+author: Atri Hegde
+
+These are random rust projects I have built to consolidate and learn the language
+
+** Credits
+- [[https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb][Tensor Programming]] youtube channel.
