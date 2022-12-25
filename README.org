@@ -12,5 +12,6 @@ These are random rust projects I have built to consolidate and learn the languag
 - [ ] In-progress: iced-gui
 - [ ] In-progress: repo
 
+
 ** Credits
 - [[https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb][Tensor Programming]] youtube channel.
