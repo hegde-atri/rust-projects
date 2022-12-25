@@ -1,0 +1,4 @@
+#+title: Minigrep
+#+author: Atri Hegde
+
+Minigrep, grep like cli tool built from the guide at the [[https://doc.rust-lang.org/book/ch12-00-an-io-project.html][rust-lang book]].
