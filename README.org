@@ -4,13 +4,13 @@
 These are random rust projects I have built to consolidate and learn the language
 
 ** Projects
-- [ ] In-progress: Full stack
-- [ ] In-progress: minigrep
-- [ ] In-progress: sudoku_solver
-- [ ] In-progress: Chat
-- [ ] In-progress: Portsniffer
-- [ ] In-progress: iced-gui
-- [ ] In-progress: repo
++ [ ] In-progress: Full stack
++ [X] In-progress: minigrep
++ [ ] In-progress: sudoku_solver
++ [ ] In-progress: Chat
++ [ ] In-progress: Portsniffer
++ [ ] In-progress: iced-gui
++ [ ] In-progress: repo
 
 
 ** Credits
