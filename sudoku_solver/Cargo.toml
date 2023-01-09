@@ -1,8 +1,10 @@
 [package]
 name = "sudoku_solver"
 version = "0.1.0"
+authors = ["Atri Hegde <iamatrihegde@outlook.com>"]
+license = "GPL-v3"
+description = "CLI sudoku solver"
+readme = "README.org"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]

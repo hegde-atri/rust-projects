@@ -6,7 +6,7 @@ These are random rust projects I have built to consolidate and learn the languag
 ** Projects
 + [ ] In-progress: Full stack
 + [X] In-progress: minigrep
-+ [ ] In-progress: sudoku_solver
++ [-] In-progress: sudoku_solver
 + [ ] In-progress: Chat
 + [ ] In-progress: Portsniffer
 + [ ] In-progress: iced-gui
