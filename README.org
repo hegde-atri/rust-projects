@@ -11,6 +11,8 @@ These are random rust projects I have built to consolidate and learn the languag
 + [ ] In-progress: Portsniffer
 + [ ] In-progress: iced-gui
 + [ ] In-progress: repo
++ [ ] In-progress: databases
++ [ ] In-progress: api
 
 
 ** Credits
