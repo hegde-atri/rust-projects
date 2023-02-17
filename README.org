@@ -3,7 +3,7 @@
 
 These are random rust projects I have built to consolidate and learn the language
 
-** Projects
+* Projects
 + [ ] In-progress: Full stack
 + [X] In-progress: minigrep
 + [-] In-progress: sudoku_solver
@@ -11,9 +11,29 @@ These are random rust projects I have built to consolidate and learn the languag
 + [ ] In-progress: Portsniffer
 + [ ] In-progress: iced-gui
 + [ ] In-progress: repo
-+ [ ] In-progress: databases
 + [ ] In-progress: api
 
+** minigrep
+A tool like grep built from the guide in the rust book.
 
-** Credits
-- [[https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb][Tensor Programming]] youtube channel.
+** sudoku_solver
+Application that solves sudoku puzzles for you.
+
+
+** chat
+A simple chat app that has multiple senders to one channel. (backend only)
+
+** repo
+A tool to manage directories with git repositories. (See which ones need committing, pushing... etc)
+
+** api
+Building a backend application to serve API's using Actix and SurrealDB.
+
+** iced-gui
+A project learning the iced-gui framework.
+
+** portsniffer
+Portsniffer application in rust. More info soon.
+
+* Credits
+- [[https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb][Tensor Programming]] youtube channel for some of the project ideas.
