@@ -13,14 +13,13 @@ These are random rust projects I have built to consolidate and learn the languag
 + [ ] In-progress: repo
 + [ ] In-progress: api
 
-** minigrep
+** DONE minigrep
 A tool like grep built from the guide in the rust book.
 
 ** sudoku_solver
 Application that solves sudoku puzzles for you.
 
-
-** chat
+** DONE chat
 A simple chat app that has multiple senders to one channel. (backend only)
 
 ** repo
